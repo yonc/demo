@@ -1,2 +1,2 @@
-# demo
-liferay6.2
+# Learning liferay 6. 2 theme
+liferay6.2-theme
